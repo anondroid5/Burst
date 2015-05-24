@@ -20,7 +20,7 @@ http://mvnrepository.com/
 
 AggregationPyramid.java - バースト検出プログラムの試作
 
-CosineSample.java - 余弦類似度計算用プログラム
+CosineSample.java - 余弦類似度計算プログラム
 
 # Author
 Fumihiko Akagi
