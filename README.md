@@ -22,4 +22,4 @@ Fumihiko Akagi
  
  -
  
-    Copyright (c) 2013 Fumihiko Akagi
+   Copyright (c) 2013 Fumihiko Akagi
