@@ -5,7 +5,7 @@ Aggregation Pyramid
 
 Cosine Similarity
 
-[slideshare id=48517251&doc=random-150523152517-lva1-app6891]
+http://www.slideshare.net/anondroid5/ss-48517251
 
 # Environment
 Java8 (jdk1.8.0_05)
