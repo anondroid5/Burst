@@ -1,5 +1,9 @@
 # Burst
-burst detection
+Burst Detection
+
+Aggregation Pyramid
+
+Cosine Similarity
 
 # Environment
 Java8 (jdk1.8.0_05)
