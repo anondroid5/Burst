@@ -18,7 +18,7 @@ http://mvnrepository.com/
 
 Aggregation Pyramid - バースト検出プログラムの試作
 
-
+CosineSample.java - 余弦類似度計算用プログラム
 
 # Author
 Fumihiko Akagi
