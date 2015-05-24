@@ -7,7 +7,8 @@ Cosine Similarity
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.slideshare.net/slideshow/embed_code/key/xifE3iiI5wxiVz)
 
-<script async class="speakerdeck-embed" data-id="467128ff7eab4a0b9cb6c5f43e7ee5e8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-slide="1" data-id="467128ff7eab4a0b9cb6c5f43e7ee5e8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/key/xifE3iiI5wxiVz" width="490px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
