@@ -5,7 +5,7 @@ Aggregation Pyramid
 
 Cosine Similarity
 
-# 研究概要
+# Investigation
 
 
 # Environment
