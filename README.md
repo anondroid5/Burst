@@ -18,3 +18,4 @@ http://mvnrepository.com/
 Fumihiko Akagi
 
 #Copyright
+###!!使用する際はライセンスを読んで使用してください!!
