@@ -7,6 +7,7 @@ Cosine Similarity
 
 # Investigation
 
+<iframe src="http://www.slideshare.net/anondroid5/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
 # Environment
 Java8 (jdk1.8.0_05)
