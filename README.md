@@ -5,7 +5,7 @@ Aggregation Pyramid
 
 Cosine Similarity
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/1NUzjjZlPRW7yF" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/LizRyan/how-to-get-the-job-you-deserve-48504441" title="How to Get the Job You Deserve" target="_blank">How to Get the Job You Deserve</a> </strong> from <strong><a href="//www.slideshare.net/LizRyan" target="_blank">Liz Ryan</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xifE3iiI5wxiVz" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/anondroid5/ss-48517251" title="研究紹介" target="_blank">研究紹介</a> </strong> from <strong><a href="//www.slideshare.net/anondroid5" target="_blank">Hosei University</a></strong> </div>
 
 # Environment
 Java8 (jdk1.8.0_05)
