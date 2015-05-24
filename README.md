@@ -14,6 +14,12 @@ Apache Tomcat 7.0
 
 http://mvnrepository.com/
 
+# Details
+
+Aggregation Pyramid - バースト検出プログラムの試作
+
+
+
 # Author
 Fumihiko Akagi
 
