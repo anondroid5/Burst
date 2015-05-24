@@ -19,6 +19,7 @@ Fumihiko Akagi
 
 #Copyright
 ###!!使用する際はライセンスを読んで使用してください!!
- 
+    大学院の研究プログラムを一部公開する
+    
  ***
     Copyright (c) 2015 Fumihiko Akagi
