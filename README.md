@@ -5,7 +5,8 @@ Aggregation Pyramid
 
 Cosine Similarity
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.slideshare.net/slideshow/embed_code/key/xifE3iiI5wxiVz)
+# 研究概要
+
 
 # Environment
 Java8 (jdk1.8.0_05)
