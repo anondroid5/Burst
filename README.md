@@ -8,7 +8,7 @@ Cosine Similarity
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http:////www.slideshare.net/slideshow/embed_code/key/xifE3iiI5wxiVz)
 
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/xifE3iiI5wxiVz" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<iframe src="http://www.slideshare.net/anondroid5/slideshelf" width="490px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
 
 # Environment
