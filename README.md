@@ -21,6 +21,8 @@ AggregationPyramid.java - バースト検出プログラムの試作
 
 CosineSample.java - 余弦類似度計算プログラム
 
+＊if文よりswitch文のほうが高速処理
+
 # Author
 Fumihiko Akagi
 
