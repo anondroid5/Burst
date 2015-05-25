@@ -11,7 +11,6 @@ Cosine Similarity
 
 # Requirements
 * Java >= 1.8
-* Tomcat >= 7.0
 * maven2 (compile)
 
 http://mvnrepository.com/
