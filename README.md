@@ -28,6 +28,8 @@ CosineSample.java - 余弦類似度計算プログラム
 # Author
 Fumihiko Akagi
 
+If I were reborn, I would like to wark at Google.
+
 #Copyright
 ###!!使用する際はライセンスを読んで使用してください!!
     本ソフトウェアは、独断と個人による利用を固く禁じる。
