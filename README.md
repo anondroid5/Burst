@@ -26,7 +26,7 @@ CosineSample.java - 余弦類似度計算プログラム
 注) If文よりSwitch文のほうが高速
 
 # Author
-Fumihiko Akagi
+Fumihiko Akaki
 
 #Copyright
 ###!!使用する際はライセンスを読んで使用してください!!
@@ -34,4 +34,4 @@ Fumihiko Akagi
     大学院の研究で使用しているプログラムの一部を掲載した。
     
  ***
-    Copyright (c) 2015 Fumihiko Akagi
+    Copyright (c) 2015 Fumihiko Akaki
